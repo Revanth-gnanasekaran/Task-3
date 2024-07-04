@@ -1,0 +1,31 @@
+{
+  "basics": {
+    "name": "Revanth Gnanassekaran",
+    "email": "thangamgr@outlook.com",
+    "phone": "+91 987456321.",
+    "qualification": "B.E (Mechanical Engineering)",
+    "location": {
+      "address": "coimbatore",
+      "postalCode": "641020",
+    },
+  }
+}
+ "work": [
+    {
+      "company": "Cheran Machines India",
+      "position": "Purchase Engineer",
+      "Experice": " 2 Years"
+ 
+    }
+  ],
+   "education": [
+    {
+        "Graduate": "B.E Mechanical Engineering",
+        "Batch" : "2013 - 2017",
+    }
+  ],
+  "skills": [
+    {
+   "Intrested": ""Driving"
+    }
+  ],
